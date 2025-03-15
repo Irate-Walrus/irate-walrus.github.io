@@ -1,0 +1,6 @@
+[submodule "irate-walrus.me/themes/re-terminal"]
+	path = irate-walrus.me/themes/re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
+[submodule "themes/re-terminal"]
+	path = themes/re-terminal
+	url = https://github.com/mirus-ua/hugo-theme-re-terminal.git
