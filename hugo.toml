@@ -1,4 +1,4 @@
-baseurl = "https://irate-walrus.github.io/"
+baseurl = "https://blog.irate-walrus.me/"
 languageCode = "en-us"
 
 theme = ["re-terminal"]
