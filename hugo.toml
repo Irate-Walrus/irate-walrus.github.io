@@ -34,7 +34,7 @@ autoCover = true
 showLastUpdated = true
 
 # set a custom favicon (default is a `themeColor` square)
-# favicon = "favicon.ico"
+favicon = "favicon.ico"
 
 # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
 # updatedDatePrefix = "Updated"
@@ -73,7 +73,7 @@ readingTime = true # default
 [languages.en.params]
 languageName = "English"
 title = "irate-walrus.me"
-subtitle = "personal page of irate-walrus"
+subtitle = "The personal musings of an Irate-Walrus"
 owner = "Irate-Walrus"
 keywords = ""
 copyright = ""
@@ -99,7 +99,7 @@ name = "About"
 url = "/"
 
 [[languages.en.menu.main]]
-identifier = "showcase"
+identifier = "blog"
 name = "Blog"
 url = "/posts"
 
