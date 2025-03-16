@@ -86,7 +86,7 @@ However, there are alternatives.
 
 ## 3.0.0 - Position Independent Code (PIC)
 
-Position-Independent Code (PIC) does not rely on a loader to perform its memory relocations and protections. In addition, it does note require an executable header. It is more similar to the shellcode you would expect to be produced by Metasploit as part of a software exploit (although quite a bit larger). Executing PIC is as simple as:
+Position-Independent Code (PIC) does not rely on a loader to perform its memory relocations and protections. In addition, it does not require an executable header. It is more similar to the shellcode you would expect to be produced by Metasploit as part of a software exploit (although quite a bit larger). Executing PIC is as simple as:
 
 ```rust
 /* main() @ https://raw.githubusercontent.com/Irate-Walrus/stardust-rs/35f2ed30390c30bb4ea513ecea6ac44ccc3938b3/runner/src/main.rs */
