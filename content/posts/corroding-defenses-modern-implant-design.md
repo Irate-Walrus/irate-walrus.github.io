@@ -541,5 +541,6 @@ Thanks to:
 - @safedv - https://github.com/safedv/Rustic64
 - @NinjaParanoid - https://bruteratel.com/research/feature-update/2021/01/30/OBJEXEC/
 - @nerditation - https://users.rust-lang.org/t/i686-w64-mingw32-gcc-and-relative-data-addressing-pic/122399
+- @oberrich - https://github.com/delulu-hq/phnt-rs
 
 What happens if you wrote a VM for an entirely different architecture and then executed your implant within that? Extensibility without RW -> RX memory?
