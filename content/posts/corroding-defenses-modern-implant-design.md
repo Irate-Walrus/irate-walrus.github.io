@@ -536,11 +536,11 @@ The code now works on the following formats:
 Thanks to:
 
 - Everyone who listened to me nag incessantly about this in-person and online.
-- @5pider - https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/
-- @wumb0 - https://github.com/wumb0/rust_bof
-- @safedv - https://github.com/safedv/Rustic64
-- @NinjaParanoid - https://bruteratel.com/research/feature-update/2021/01/30/OBJEXEC/
-- @nerditation - https://users.rust-lang.org/t/i686-w64-mingw32-gcc-and-relative-data-addressing-pic/122399
-- @oberrich - https://github.com/delulu-hq/phnt-rs
+- [@Cracked5pider](https://github.com/Cracked5pider) - https://5pider.net/blog/2024/01/27/modern-shellcode-implant-design/
+- [@wumb0](https://github.com/wumb0) - https://github.com/wumb0/rust_bof
+- [@safedv](https://github.com/safedv) - https://github.com/safedv/Rustic64
+- [@paranoidninja](https://github.com/paranoidninja) - https://bruteratel.com/research/feature-update/2021/01/30/OBJEXEC/
+- [@nerditation](https://github.com/nerditation) - https://users.rust-lang.org/t/i686-w64-mingw32-gcc-and-relative-data-addressing-pic/122399
+- [@oberrich](https://github.com/oberrich) - https://github.com/delulu-hq/phnt-rs
 
 What happens if you wrote a VM for an entirely different architecture and then executed your implant within that? Extensibility without RW -> RX memory?
