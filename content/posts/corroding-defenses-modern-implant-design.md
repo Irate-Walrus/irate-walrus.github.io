@@ -134,7 +134,7 @@ So, turns out self-discovery (of the PIC code) in memory isn't so bad, we just n
 >
 > Executable formats such as PEs and ELFs use linker scripts to define their output formats. You can view the linker script for an x86_64 ELF using `ld --verbose -m elf_x86_64`.
 
-Due to differences between ELF and PEs they require slightly different scripts, but the general executable format of a _stardust-rs_ PIC implant template is as follows (in a linker script adjacent format).
+Due to differences between ELFs and PEs they require slightly different scripts, but the general executable format of a _stardust-rs_ PIC implant template is as follows (in a linker script adjacent format).
 
 ```c
 *(.text.prologue)       /* aligns the stack by 16-bytes, gets implant base address, and executes implant entrypoint */
