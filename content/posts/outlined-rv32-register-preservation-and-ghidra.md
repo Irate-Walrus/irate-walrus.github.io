@@ -1,5 +1,5 @@
 +++
-title = "Aside: Outlined RISCV-32 Register Preservation and Ghidra"
+title = "An Aside: Outlined RISCV-32 Register Preservation and Ghidra"
 date = "2025-05-16T01:16:27Z"
 author = "Irate-Walrus"
 cover = ""
